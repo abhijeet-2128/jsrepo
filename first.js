@@ -34,4 +34,4 @@ var price = 100;
 // Using let
 let isPermanent = false; 
 // Using const
-const PUBLICATION = 'freeCodeCamp' 
+const PUBLICATION = 'freeCode' 
